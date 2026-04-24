@@ -24,9 +24,6 @@
 
 ## 🎵 Proyecto Destacado: FridaMusic
 *Una app de música diseñada bajo la estética "Sonic Prism" con efectos de Glassmorphism y navegación fluida.*
-- [ ] Implementación de Motor de Audio (ExoPlayer)
-- [x] UI/UX Moderna con Compose
-- [x] Gestión de Librería Local
 
 ---
 
