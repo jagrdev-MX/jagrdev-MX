@@ -72,18 +72,13 @@
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="mailto:jagr.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jagrdev-MX">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@JAGRDEVELOPER">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+## 📫 Contact
 
+<p align="center">
+  📧 <a href="mailto:jagr.developer@gmail.com">jagr.developer@gmail.com</a> <br>
+  💻 <a href="https://github.com/jagrdev-MX">github.com/jagrdev-MX</a> <br>
+  🌐 <a href="https://www.youtube.com/@JAGRDEVELOPER">youtube.com/@JAGRDEVELOPER</a>
+</p>
 ---
 
 <!-- FOOTER -->
