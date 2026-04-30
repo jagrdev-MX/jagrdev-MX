@@ -1,36 +1,87 @@
-# ¡Hola! Soy Josue Gutierrez (jagrdev-MX) 👋
-### Desarrollador en formación | Creador de Soluciones Digitales | Entusiasta del Open Source
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagrdev-MX&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrdev-MX&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:FFD700&height=200&section=header&text=JAGR%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- TYPING EFFECT -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+Real+Software;Android+Developer;Systems+%26+Performance;UI%2FUX+Focused" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
-- 📱 Actualmente construyendo **FridaMusic**, una experiencia sonora premium para Android.
-- 🇲🇽 Basado en México, aprendiendo constantemente sobre arquitectura de software y diseño UX/UI.
-- 🎯 Mi objetivo es crear aplicaciones que no solo funcionen, sino que sorprendan visualmente.
+## 👨‍💻 About Me
 
-## 🛠️ Tecnologías y Herramientas
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## 🎵 Proyecto Destacado: FridaMusic
-*Una app de música diseñada bajo la estética "Sonic Prism" con efectos de Glassmorphism y navegación fluida.*
+* 📱 Building **FridaMusic** (Next-gen Android music app)
+* 🇲🇽 Mexico-based developer
+* 🧠 Focused on architecture, performance & UI/UX
+* 🎯 Goal: build software that stands out visually and technically
 
 ---
 
-## 📫 Conectemos
-- 📧 Email: [jagr.developer@gmail.com](mailto:jagr.developer@gmail.com)
-- 🌐 Google Dev Profile: [g.dev/jagrdev](https://g.dev/jagrdev)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagrdev-MX&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrdev-MX&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma" />
+</p>
+
+---
+
+## 🔍 Real Usage (Auto)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagrdev-MX&theme=tokyonight" />
+</p>
+
+---
+
+## 🎵 Featured Project
+
+### 🚀 FridaMusic
+
+> A premium Android music experience built with modern UI (Glassmorphism + Sonic Prism)
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 👁️ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jagrdev-MX&label=Profile+Views&color=FFD700&style=flat" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  📧 jagr.developer@gmail.com <br>
+  💻 github.com/jagrdev-MX <br>
+  🌐 youtube.com/@JAGRDEVELOPER
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:0f2027,100:000000&height=120&section=footer"/>
 </p>
