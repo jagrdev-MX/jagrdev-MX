@@ -14,18 +14,27 @@
 
 ## 👨‍💻 About Me
 
-* 📱 Building **FridaMusic** (Next-gen Android music app)
-* 🇲🇽 Mexico-based developer
-* 🧠 Focused on architecture, performance & UI/UX
-* 🎯 Goal: build software that stands out visually and technically
+- 📱 Building **FridaMusic**
+- 🇲🇽 Mexico-based developer
+- 🧠 Focused on architecture, performance & UI/UX
+- 🎯 Goal: build software that stands out visually and technically
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagrdev-MX&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrdev-MX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagrdev-mx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagrdev-mx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+
 </p>
 
 ---
@@ -38,26 +47,26 @@
 
 ---
 
-## 🔍 Real Usage (Auto)
+## 🔍 Real Usage
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagrdev-MX&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagrdev-mx&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🎵 Featured Project
 
-### 🚀 FridaMusic
+# 🚀 FridaMusic
 
-> A premium Android music experience built with modern UI (Glassmorphism + Sonic Prism)
+> A premium Android music experience built with modern UI
 
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-mx&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -65,20 +74,19 @@
 ## 👁️ Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagrdev-MX&label=Profile+Views&color=FFD700&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jagrdev-mx&label=Profile+Views&color=FFD700&style=flat" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-## 📫 Contact
-
 <p align="center">
   📧 <a href="mailto:jagr.developer@gmail.com">jagr.developer@gmail.com</a> <br>
-  💻 <a href="https://github.com/jagrdev-MX">github.com/jagrdev-MX</a> <br>
+  💻 <a href="https://github.com/jagrdev-mx">github.com/jagrdev-mx</a> <br>
   🌐 <a href="https://www.youtube.com/@JAGRDEVELOPER">youtube.com/@JAGRDEVELOPER</a>
 </p>
+
 ---
 
 <!-- FOOTER -->
