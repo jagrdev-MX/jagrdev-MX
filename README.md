@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                     JAGR DEV PROFILE                      -->
-
 <!-- ========================================================= -->
 
 <p align="center">
@@ -82,25 +80,11 @@ Its first major project is **FridaMusic**.
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎵 FridaMusic
 
 A modern Android music ecosystem focused on performance, design and a polished listening experience.
 
-**Main areas**
-
-* Android / Kotlin
-* Media3 / ExoPlayer
-* Remote & local playback
-* Metadata matching
-* Backend services
-* Downloads
-* Automation
-* Google Play distribution
-* Web platform
+**Main areas:** Android / Kotlin · Media3 / ExoPlayer · Remote & local playback · Metadata matching · Backend services · Downloads · Automation · Google Play distribution · Web platform
 
 <p>
   <a href="https://github.com/jagrdev-MX/FridaMusicOF">
@@ -111,21 +95,11 @@ A modern Android music ecosystem focused on performance, design and a polished l
   </a>
 </p>
 
-</td>
-
-<td width="50%" valign="top">
-
 ### 📦 XAPK / APKM Installer
 
 Project within the wider Frida Labs collaboration ecosystem focused on Android package installation.
 
-**Formats / ecosystem**
-
-* APK
-* APKM
-* XAPK
-* Android package workflows
-* Web companion project
+**Formats / ecosystem:** APK · APKM · XAPK · Android package workflows · Web companion project
 
 <p>
   <a href="https://github.com/juliocps25/APKMInstaller">
@@ -135,10 +109,6 @@ Project within the wider Frida Labs collaboration ecosystem focused on Android p
     <img src="https://img.shields.io/badge/Web-XAPK%20Installer-000000?style=flat-square&logo=vercel" />
   </a>
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -211,53 +181,41 @@ AI is part of my development workflow as a tool for research, prototyping, debug
   <b>Course Completion Certificates · OpenAI Academy · August 16, 2026</b>
 </p>
 
-<table>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
 ### 🤖 AI Foundations
 
-<a href="https://academy.openai.com/home/certificate/tqjlqszg6s">
-  <img src="./assets/certificates/openai-ai-foundations.png" width="100%" alt="OpenAI Academy AI Foundations Certificate"/>
-</a>
-
-<a href="https://academy.openai.com/home/certificate/tqjlqszg6s">
-  <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" align="center" valign="top">
+<p align="center">
+  <a href="https://academy.openai.com/home/certificate/tqjlqszg6s">
+    <img src="https://img.shields.io/badge/OpenAI%20Academy-AI%20Foundations-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Foundations" />
+  </a>
+  <br><br>
+  <a href="https://academy.openai.com/home/certificate/tqjlqszg6s">
+    <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-111111?style=flat-square&logo=openai&logoColor=white" alt="Verify AI Foundations certificate" />
+  </a>
+</p>
 
 ### 🧩 Applied AI Foundations
 
-<a href="https://academy.openai.com/home/certificate/z1nkv52xiq">
-  <img src="./assets/certificates/openai-applied-ai-foundations.png" width="100%" alt="OpenAI Academy Applied AI Foundations Certificate"/>
-</a>
-
-<a href="https://academy.openai.com/home/certificate/z1nkv52xiq">
-  <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" align="center" valign="top">
+<p align="center">
+  <a href="https://academy.openai.com/home/certificate/z1nkv52xiq">
+    <img src="https://img.shields.io/badge/OpenAI%20Academy-Applied%20AI%20Foundations-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Applied AI Foundations" />
+  </a>
+  <br><br>
+  <a href="https://academy.openai.com/home/certificate/z1nkv52xiq">
+    <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-111111?style=flat-square&logo=openai&logoColor=white" alt="Verify Applied AI Foundations certificate" />
+  </a>
+</p>
 
 ### ⚡ Agents and Workflows
 
-<a href="https://academy.openai.com/home/certificate/susxi9q7ro">
-  <img src="./assets/certificates/openai-agents-workflows.png" width="100%" alt="OpenAI Academy Agents and Workflows Certificate"/>
-</a>
-
-<a href="https://academy.openai.com/home/certificate/susxi9q7ro">
-  <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <a href="https://academy.openai.com/home/certificate/susxi9q7ro">
+    <img src="https://img.shields.io/badge/OpenAI%20Academy-Agents%20%26%20Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agents and Workflows" />
+  </a>
+  <br><br>
+  <a href="https://academy.openai.com/home/certificate/susxi9q7ro">
+    <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-111111?style=flat-square&logo=openai&logoColor=white" alt="Verify Agents and Workflows certificate" />
+  </a>
+</p>
 
 ---
 
@@ -267,96 +225,53 @@ AI is part of my development workflow as a tool for research, prototyping, debug
   <b>TrueCert verified skills · August 2026</b>
 </p>
 
-<table>
-<tr>
+### Git Introduction · 92.3%
+<p align="center">
+  <a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr">
+    <img src="https://img.shields.io/badge/TrueCert-Git%20Introduction-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Git Introduction TrueCert" />
+  </a>
+  <br><br>
+  <a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr"><b>Verify credential ↗</b></a>
+</p>
 
-<td width="25%" align="center">
+### HTML & CSS Introduction · 90.3%
+<p align="center">
+  <a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr">
+    <img src="https://img.shields.io/badge/TrueCert-HTML%20%26%20CSS%20Introduction-0A66C2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS Introduction TrueCert" />
+  </a>
+  <br><br>
+  <a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr"><b>Verify credential ↗</b></a>
+</p>
 
-### Git
+### AI Introduction · 100%
+<p align="center">
+  <a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr">
+    <img src="https://img.shields.io/badge/TrueCert-AI%20Introduction-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Introduction TrueCert" />
+  </a>
+  <br><br>
+  <a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr"><b>Verify credential ↗</b></a>
+</p>
 
-<a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr">
-  <img src="./assets/certificates/truecert-git.png" width="100%" alt="Git Introduction TrueCert Badge"/>
-</a>
-
-**92.3%**
-
-<a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr">
-Verify
-</a>
-
-</td>
-
-<td width="25%" align="center">
-
-### HTML & CSS
-
-<a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr">
-  <img src="./assets/certificates/truecert-html-css.png" width="100%" alt="HTML and CSS Introduction TrueCert Badge"/>
-</a>
-
-**90.3%**
-
-<a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr">
-Verify
-</a>
-
-</td>
-
-<td width="25%" align="center">
-
-### AI
-
-<a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr">
-  <img src="./assets/certificates/truecert-ai.png" width="100%" alt="AI Introduction TrueCert Badge"/>
-</a>
-
-**100%**
-
-<a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr">
-Verify
-</a>
-
-</td>
-
-<td width="25%" align="center">
-
-### JavaScript
-
-<a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr">
-  <img src="./assets/certificates/truecert-javascript.png" width="100%" alt="JavaScript Introduction TrueCert Badge"/>
-</a>
-
-**100%**
-
-<a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr">
-Verify
-</a>
-
-</td>
-
-</tr>
-</table>
+### JavaScript Introduction · 100%
+<p align="center">
+  <a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr">
+    <img src="https://img.shields.io/badge/TrueCert-JavaScript%20Introduction-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Introduction TrueCert" />
+  </a>
+  <br><br>
+  <a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr"><b>Verify credential ↗</b></a>
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagrdev-MX&theme=tokyonight"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagrdev-MX&theme=tokyonight"
-  />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagrdev-MX&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagrdev-MX&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    width="98%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagrdev-MX&theme=tokyonight"
-  />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagrdev-MX&theme=tokyonight" />
 </p>
 
 ---
@@ -364,11 +279,7 @@ Verify
 # 📈 Contribution Activity
 
 <p align="center">
-  <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=tokyo-night&hide_border=true&area=true"
-    alt="JAGR DEV GitHub Activity Graph"
-  />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=tokyo-night&hide_border=true&area=true" alt="JAGR DEV GitHub Activity Graph" />
 </p>
 
 ---
@@ -393,15 +304,15 @@ FridaMusic is the first major product under Frida Labs — not the final destina
 
 The long-term goal is to explore and build:
 
-* 📱 Mobile applications
-* 🌐 Web platforms
-* 🧠 Artificial Intelligence
-* ⚙️ Backend systems
-* ☁️ Cloud infrastructure
-* 🔌 APIs
-* 🧪 Experimental software
-* 🤝 Open-source collaborations
-* 🛠️ Developer tools
+- 📱 Mobile applications
+- 🌐 Web platforms
+- 🧠 Artificial Intelligence
+- ⚙️ Backend systems
+- ☁️ Cloud infrastructure
+- 🔌 APIs
+- 🧪 Experimental software
+- 🤝 Open-source collaborations
+- 🛠️ Developer tools
 
 ---
 
@@ -419,48 +330,31 @@ The long-term goal is to explore and build:
 
 # 🤝 Collaboration
 
-I'm interested in collaborating on projects involving:
-
-* Android
-* Music technology
-* AI
-* Developer tools
-* Web platforms
-* Backend infrastructure
-* Open source
-* Experimental software
+I'm interested in collaborating on projects involving Android, music technology, AI, developer tools, web platforms, backend infrastructure, open source and experimental software.
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:jagr.developer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jagr.developer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jagrdev-MX">
-  <img src="https://img.shields.io/badge/GitHub-jagrdev--MX-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.youtube.com/@JAGRDEVELOPER">
-  <img src="https://img.shields.io/badge/YouTube-JAGR%20DEVELOPER-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://frida-labs-web-oficial.vercel.app">
-  <img src="https://img.shields.io/badge/Frida%20Labs-Visit-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
+  <a href="mailto:jagr.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jagr.developer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jagrdev-MX">
+    <img src="https://img.shields.io/badge/GitHub-jagrdev--MX-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.youtube.com/@JAGRDEVELOPER">
+    <img src="https://img.shields.io/badge/YouTube-JAGR%20DEVELOPER-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://frida-labs-web-oficial.vercel.app">
+    <img src="https://img.shields.io/badge/Frida%20Labs-Visit-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=jagrdev-MX&label=PROFILE%20VIEWS&color=FFD700&style=for-the-badge"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=jagrdev-MX&label=PROFILE%20VIEWS&color=FFD700&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -470,8 +364,5 @@ I'm interested in collaborating on projects involving:
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FFD700,35:1d4ed8,70:111827,100:000000&section=footer"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FFD700,35:1d4ed8,70:111827,100:000000&section=footer" />
 </p>
