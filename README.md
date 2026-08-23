@@ -1,368 +1,250 @@
 <!-- ========================================================= -->
-<!--                     JAGR DEV PROFILE                      -->
+<!--                     PERFIL JAGR DEV                       -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:111827,75:1d4ed8,100:FFD700&text=JAGR%20DEV&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Building%20software.%20Learning%20constantly.%20Creating%20what%20comes%20next.&descAlignY=57&descSize=16"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:111827,75:1d4ed8,100:FFD700&text=JAGR%20DEV&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Construyendo%20software.%20Aprendiendo%20siempre.%20Creando%20lo%20que%20sigue.&descAlignY=57&descSize=16" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jagrdev-MX">
-    <img src="https://img.shields.io/badge/GitHub-jagrdev--MX-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:jagr.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-JAGR%20Developer-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@JAGRDEVELOPER">
-    <img src="https://img.shields.io/badge/YouTube-JAGR%20DEVELOPER-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://frida-labs-web-oficial.vercel.app">
-    <img src="https://img.shields.io/badge/Frida%20Labs-Official%20Website-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
+  <a href="https://github.com/jagrdev-MX"><img src="https://img.shields.io/badge/GitHub-jagrdev--MX-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:jagr.developer@gmail.com"><img src="https://img.shields.io/badge/Correo-JAGR%20DEV-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@JAGRDEVELOPER"><img src="https://img.shields.io/badge/YouTube-JAGR%20DEVELOPER-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://frida-labs-web-oficial.vercel.app"><img src="https://img.shields.io/badge/Frida%20Labs-Web%20oficial-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
-<br>
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=23&duration=2600&pause=700&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Founder+%26+Developer+at+Frida+Labs;Android+%7C+Web+%7C+Backend+%7C+AI;Building+FridaMusic;Architecture+%7C+Performance+%7C+UI%2FUX;Turning+ideas+into+real+software"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=23&duration=2600&pause=700&color=FFD700&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Fundador+%26+desarrollador+en+Frida+Labs;Android+%7C+Web+%7C+Backend+%7C+IA;Construyendo+FridaMusic;Arquitectura+%7C+Rendimiento+%7C+UI%2FUX;Convirtiendo+ideas+en+software+real" alt="JAGR DEV" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
 ```text
-Name        : Josue Alberto Gutierrez Ramirez
+Nombre      : Josue Alberto Gutierrez Ramirez
 Alias       : JAGR DEV / jagrdev-MX
-Location    : Mexico 🇲🇽
-Focus       : Software Development · Android · Web · Backend · AI
-Project     : Frida Labs
-Main Build  : FridaMusic
-Mindset     : Build → Test → Learn → Improve → Repeat
+Ubicación   : México 🇲🇽
+Enfoque     : Desarrollo de software · Android · Web · Backend · IA
+Proyecto    : Frida Labs
+Producto    : FridaMusic
+Mentalidad  : Construir → Probar → Aprender → Mejorar → Repetir
 ```
 
-I'm a Mexico-based developer focused on building **real software products**, learning new technologies and transforming ideas into systems that can grow.
+Soy un desarrollador mexicano enfocado en crear **productos de software reales**, aprender nuevas tecnologías y convertir ideas en sistemas que puedan crecer.
 
-I work across **Android development, web platforms, backend services, automation, software architecture, artificial intelligence and UI/UX**.
+Trabajo con **Android, plataformas web, servicios backend, automatización, arquitectura de software, inteligencia artificial y UI/UX**.
 
-I'm currently building the **Frida Labs ecosystem**, where software development, experimentation and continuous learning come together.
+Actualmente desarrollo el ecosistema de **Frida Labs**, donde el desarrollo, la experimentación y el aprendizaje continuo se convierten en proyectos reales.
 
-> **Code that compiles is only the beginning. Software has to work in the real world.**
+> **Que el código compile es solo el comienzo. El software tiene que funcionar en el mundo real.**
 
 ---
 
 # 🧪 Frida Labs
 
-<p align="center">
-  <b>Independent technology lab focused on software, digital products, infrastructure and experimental projects.</b>
-</p>
+<p align="center"><b>Laboratorio tecnológico independiente enfocado en software, productos digitales, infraestructura y proyectos experimentales.</b></p>
 
 <p align="center">
-  <a href="https://frida-labs-web-oficial.vercel.app">
-    <img src="https://img.shields.io/badge/FRIDA%20LABS-Official%20Website-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" />
-  </a>
-  <a href="mailto:fridalabs.soporte@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Frida%20Labs-111111?style=for-the-badge&logo=gmail&logoColor=FFD700" />
-  </a>
+  <a href="https://frida-labs-web-oficial.vercel.app"><img src="https://img.shields.io/badge/FRIDA%20LABS-Sitio%20oficial-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+  <a href="mailto:fridalabs.soporte@gmail.com"><img src="https://img.shields.io/badge/Contacto-Frida%20Labs-111111?style=for-the-badge&logo=gmail&logoColor=FFD700" /></a>
 </p>
 
-Frida Labs grew from a personal idea into a technology project focused on creating scalable software and learning through real-world development.
-
-Its first major project is **FridaMusic**.
+Frida Labs nació de una idea personal y evolucionó hacia un proyecto tecnológico orientado a crear software escalable, experimentar y aprender mediante desarrollo real. Su primer gran proyecto es **FridaMusic**.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Proyectos destacados
 
-### 🎵 FridaMusic
+## 🎵 FridaMusic
 
-A modern Android music ecosystem focused on performance, design and a polished listening experience.
+Ecosistema musical para Android enfocado en rendimiento, diseño y una experiencia de reproducción cuidada.
 
-**Main areas:** Android / Kotlin · Media3 / ExoPlayer · Remote & local playback · Metadata matching · Backend services · Downloads · Automation · Google Play distribution · Web platform
+**Áreas principales:** Android / Kotlin · Media3 / ExoPlayer · reproducción remota y local · metadata y matching · backend · descargas · automatización · distribución en Google Play · plataforma web.
 
 <p>
-  <a href="https://github.com/jagrdev-MX/FridaMusicOF">
-    <img src="https://img.shields.io/badge/GitHub-FridaMusicOF-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://frida-music-of.vercel.app/">
-    <img src="https://img.shields.io/badge/Web-FridaMusic-000000?style=flat-square&logo=vercel" />
-  </a>
+  <a href="https://github.com/jagrdev-MX/FridaMusicOF"><img src="https://img.shields.io/badge/GitHub-FridaMusicOF-181717?style=flat-square&logo=github" /></a>
+  <a href="https://frida-music-of.vercel.app/"><img src="https://img.shields.io/badge/Web-FridaMusic-000000?style=flat-square&logo=vercel" /></a>
 </p>
 
-### 📦 XAPK / APKM Installer
+## 📦 XAPK / APKM Installer
 
-Project within the wider Frida Labs collaboration ecosystem focused on Android package installation.
+Proyecto colaborativo relacionado con el ecosistema de Frida Labs, enfocado en instalación y flujos de paquetes Android.
 
-**Formats / ecosystem:** APK · APKM · XAPK · Android package workflows · Web companion project
+**Formatos y áreas:** APK · APKM · XAPK · flujos de instalación Android · proyecto web complementario.
 
 <p>
-  <a href="https://github.com/juliocps25/APKMInstaller">
-    <img src="https://img.shields.io/badge/GitHub-APKMInstaller-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://xapk-installer-web-frida-labs.vercel.app/">
-    <img src="https://img.shields.io/badge/Web-XAPK%20Installer-000000?style=flat-square&logo=vercel" />
-  </a>
+  <a href="https://github.com/juliocps25/APKMInstaller"><img src="https://img.shields.io/badge/GitHub-APKMInstaller-181717?style=flat-square&logo=github" /></a>
+  <a href="https://xapk-installer-web-frida-labs.vercel.app/"><img src="https://img.shields.io/badge/Web-XAPK%20Installer-000000?style=flat-square&logo=vercel" /></a>
 </p>
 
 ---
 
-# 🧠 What I'm Working On
+# 🧠 En qué estoy trabajando
 
 ```yaml
-current_focus:
+enfoque_actual:
   - FridaMusic
   - Frida Labs
-  - Android architecture
-  - Web platforms
-  - Backend services
-  - Artificial Intelligence
-  - Automation
-  - Performance
+  - Arquitectura Android
+  - Plataformas web
+  - Servicios backend
+  - Inteligencia Artificial
+  - Automatización
+  - Rendimiento
   - UI/UX
 
-learning:
-  - AI agents and workflows
-  - Applied AI
-  - Software architecture
+aprendiendo:
+  - Agentes y flujos de trabajo con IA
+  - IA aplicada
+  - Arquitectura de software
   - TypeScript / Next.js
-  - Python backend development
-  - Cloud infrastructure
-  - Git workflows
+  - Backend con Python
+  - Infraestructura cloud
+  - Flujos avanzados con Git
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Stack tecnológico
 
-### Languages
+### Lenguajes
+<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,html,css&perline=7" /></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,html,css&perline=7" />
-</p>
+### Móvil y frontend
+<p align="center"><img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs,figma&perline=4" /></p>
 
-### Mobile & Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs,figma&perline=4" />
-</p>
-
-### Backend, Cloud & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase,gcp,vercel,git,github,vscode&perline=8" />
-</p>
+### Backend, cloud y herramientas
+<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase,gcp,vercel,git,github,vscode&perline=8" /></p>
 
 ---
 
-# 🤖 Artificial Intelligence
+# 🤖 Inteligencia Artificial
 
-AI is part of my development workflow as a tool for research, prototyping, debugging and automation.
+La IA forma parte de mi flujo de desarrollo como herramienta para investigación, prototipado, depuración, automatización y análisis.
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Workflows-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Applied%20AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flujos%20de%20IA-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IA%20Aplicada-7C3AED?style=for-the-badge" />
 </p>
 
-> AI-assisted code should still be understood, reviewed and tested.
+> El código asistido por IA también debe entenderse, revisarse y probarse.
 
 ---
 
-# 🎓 OpenAI Academy
+# 🎓 Certificaciones de OpenAI Academy
+
+<p align="center"><b>Certificados de finalización · OpenAI Academy · 16 de agosto de 2026</b></p>
 
 <p align="center">
-  <b>Course Completion Certificates · OpenAI Academy · August 16, 2026</b>
+  <img src="./png/certificados-openai.jpg" width="100%" alt="Certificados OpenAI Academy de JAGR DEV" />
 </p>
 
-### 🤖 AI Foundations
-
 <p align="center">
-  <a href="https://academy.openai.com/home/certificate/tqjlqszg6s">
-    <img src="https://img.shields.io/badge/OpenAI%20Academy-AI%20Foundations-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Foundations" />
-  </a>
+  <a href="https://academy.openai.com/home/certificate/tqjlqszg6s"><img src="https://img.shields.io/badge/Verificar-AI%20Foundations-10A37F?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <br><br>
-  <a href="https://academy.openai.com/home/certificate/tqjlqszg6s">
-    <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-111111?style=flat-square&logo=openai&logoColor=white" alt="Verify AI Foundations certificate" />
-  </a>
-</p>
-
-### 🧩 Applied AI Foundations
-
-<p align="center">
-  <a href="https://academy.openai.com/home/certificate/z1nkv52xiq">
-    <img src="https://img.shields.io/badge/OpenAI%20Academy-Applied%20AI%20Foundations-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Applied AI Foundations" />
-  </a>
+  <a href="https://academy.openai.com/home/certificate/z1nkv52xiq"><img src="https://img.shields.io/badge/Verificar-Applied%20AI%20Foundations-2563EB?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <br><br>
-  <a href="https://academy.openai.com/home/certificate/z1nkv52xiq">
-    <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-111111?style=flat-square&logo=openai&logoColor=white" alt="Verify Applied AI Foundations certificate" />
-  </a>
-</p>
-
-### ⚡ Agents and Workflows
-
-<p align="center">
-  <a href="https://academy.openai.com/home/certificate/susxi9q7ro">
-    <img src="https://img.shields.io/badge/OpenAI%20Academy-Agents%20%26%20Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agents and Workflows" />
-  </a>
-  <br><br>
-  <a href="https://academy.openai.com/home/certificate/susxi9q7ro">
-    <img src="https://img.shields.io/badge/VERIFY-CERTIFICATE-111111?style=flat-square&logo=openai&logoColor=white" alt="Verify Agents and Workflows certificate" />
-  </a>
+  <a href="https://academy.openai.com/home/certificate/susxi9q7ro"><img src="https://img.shields.io/badge/Verificar-Agents%20%26%20Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" /></a>
 </p>
 
 ---
 
-# 🏅 Verified Skill Badges
+# 🏅 Habilidades verificadas · TrueCert
+
+<p align="center"><b>Credenciales verificadas · agosto de 2026</b></p>
 
 <p align="center">
-  <b>TrueCert verified skills · August 2026</b>
+  <img src="./png/certificados-truecert.jpg" width="100%" alt="Credenciales TrueCert de JAGR DEV" />
 </p>
 
-### Git Introduction · 92.3%
-<p align="center">
-  <a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr">
-    <img src="https://img.shields.io/badge/TrueCert-Git%20Introduction-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Git Introduction TrueCert" />
-  </a>
-  <br><br>
-  <a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr"><b>Verify credential ↗</b></a>
-</p>
-
-### HTML & CSS Introduction · 90.3%
-<p align="center">
-  <a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr">
-    <img src="https://img.shields.io/badge/TrueCert-HTML%20%26%20CSS%20Introduction-0A66C2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS Introduction TrueCert" />
-  </a>
-  <br><br>
-  <a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr"><b>Verify credential ↗</b></a>
-</p>
-
-### AI Introduction · 100%
-<p align="center">
-  <a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr">
-    <img src="https://img.shields.io/badge/TrueCert-AI%20Introduction-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Introduction TrueCert" />
-  </a>
-  <br><br>
-  <a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr"><b>Verify credential ↗</b></a>
-</p>
-
-### JavaScript Introduction · 100%
-<p align="center">
-  <a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr">
-    <img src="https://img.shields.io/badge/TrueCert-JavaScript%20Introduction-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Introduction TrueCert" />
-  </a>
-  <br><br>
-  <a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr"><b>Verify credential ↗</b></a>
-</p>
+- **Git Introduction — 92.3 %** · [Verificar credencial ↗](https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr)
+- **HTML & CSS Introduction — 90.3 %** · [Verificar credencial ↗](https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr)
+- **AI Introduction — 100 %** · [Verificar credencial ↗](https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr)
+- **JavaScript Introduction — 100 %** · [Verificar credencial ↗](https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Analíticas de GitHub
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagrdev-MX&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagrdev-MX&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagrdev-MX&theme=tokyonight" />
-</p>
+<p align="center"><img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagrdev-MX&theme=tokyonight" /></p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Actividad y contribuciones
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=tokyo-night&hide_border=true&area=true" alt="JAGR DEV GitHub Activity Graph" />
-</p>
+<p align="center"><img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=tokyo-night&hide_border=true&area=true" alt="Actividad de JAGR DEV en GitHub" /></p>
 
 ---
 
-# 🧭 Development Philosophy
+# 🧭 Filosofía de desarrollo
 
 ```text
-01. Understand the problem.
-02. Build the smallest correct solution.
-03. Test it with real evidence.
-04. Measure what actually happens.
-05. Improve without breaking what already works.
-06. Document what matters.
-07. Keep learning.
+01. Entender el problema.
+02. Construir la solución correcta más pequeña posible.
+03. Probarla con evidencia real.
+04. Medir lo que realmente ocurre.
+05. Mejorar sin romper lo que ya funciona.
+06. Documentar lo importante.
+07. Seguir aprendiendo.
 ```
 
 ---
 
-# 🌎 Beyond One Project
+# 🌎 Más allá de un proyecto
 
-FridaMusic is the first major product under Frida Labs — not the final destination.
+FridaMusic es el primer gran producto de Frida Labs, no el destino final.
 
-The long-term goal is to explore and build:
+Quiero seguir explorando y construyendo:
 
-- 📱 Mobile applications
-- 🌐 Web platforms
-- 🧠 Artificial Intelligence
-- ⚙️ Backend systems
-- ☁️ Cloud infrastructure
+- 📱 Aplicaciones móviles
+- 🌐 Plataformas web
+- 🧠 Inteligencia Artificial
+- ⚙️ Sistemas backend
+- ☁️ Infraestructura cloud
 - 🔌 APIs
-- 🧪 Experimental software
-- 🤝 Open-source collaborations
-- 🛠️ Developer tools
+- 🧪 Software experimental
+- 🤝 Colaboraciones open source
+- 🛠️ Herramientas para desarrolladores
 
 ---
 
-# 📚 Currently Learning
+# 📚 Aprendiendo actualmente
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-Learning-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Applied%20AI-Learning-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Architecture-Improving-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Expanding-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Learning-0284C7?style=for-the-badge"/>
-</p>
-
----
-
-# 🤝 Collaboration
-
-I'm interested in collaborating on projects involving Android, music technology, AI, developer tools, web platforms, backend infrastructure, open source and experimental software.
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:jagr.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jagr.developer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jagrdev-MX">
-    <img src="https://img.shields.io/badge/GitHub-jagrdev--MX-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.youtube.com/@JAGRDEVELOPER">
-    <img src="https://img.shields.io/badge/YouTube-JAGR%20DEVELOPER-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://frida-labs-web-oficial.vercel.app">
-    <img src="https://img.shields.io/badge/Frida%20Labs-Visit-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-Aprendiendo-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IA%20Aplicada-Aprendiendo-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arquitectura-Mejorando-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Expandiendo-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Aprendiendo-0284C7?style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagrdev-MX&label=PROFILE%20VIEWS&color=FFD700&style=for-the-badge" alt="Profile views" />
-</p>
+# 🤝 Colaboración
+
+Me interesa colaborar en proyectos relacionados con **Android, tecnología musical, IA, herramientas para desarrolladores, plataformas web, infraestructura backend, open source y software experimental**.
+
+---
+
+# 📫 Contacto
 
 <p align="center">
-  <b>JAGR DEV 🇲🇽</b>
-  <br>
-  <sub>Building software today that becomes experience tomorrow.</sub>
+  <a href="mailto:jagr.developer@gmail.com"><img src="https://img.shields.io/badge/Correo-jagr.developer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/jagrdev-MX"><img src="https://img.shields.io/badge/GitHub-jagrdev--MX-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.youtube.com/@JAGRDEVELOPER"><img src="https://img.shields.io/badge/YouTube-JAGR%20DEVELOPER-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://frida-labs-web-oficial.vercel.app"><img src="https://img.shields.io/badge/Frida%20Labs-Visitar-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FFD700,35:1d4ed8,70:111827,100:000000&section=footer" />
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jagrdev-MX&label=VISTAS%20DEL%20PERFIL&color=FFD700&style=for-the-badge" alt="Vistas del perfil" /></p>
+
+<p align="center"><b>JAGR DEV 🇲🇽</b><br><sub>Construyendo hoy el software que mañana será experiencia.</sub></p>
+
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FFD700,35:1d4ed8,70:111827,100:000000&section=footer" /></p>
