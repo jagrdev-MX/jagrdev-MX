@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:111827,75:1d4ed8,100:FFD700&text=JAGR%20DEV&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Construyendo%20software.%20Aprendiendo%20siempre.%20Creando%20lo%20que%20sigue.&descAlignY=57&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:111827,75:1d4ed8,100:FFD700&text=JAGR%20DEV&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Construyendo%20software.%20Aprendiendo%20siempre.%20Creando%20lo%20que%20sigue.&descAlignY=57&descSize=16" alt="JAGR DEV" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Actualmente desarrollo el ecosistema de **Frida Labs**, donde el desarrollo, la 
 
 ---
 
-# 🧪 Frida Labs
+## 🧪 Frida Labs
 
 <p align="center"><b>Laboratorio tecnológico independiente enfocado en software, productos digitales, infraestructura y proyectos experimentales.</b></p>
 
@@ -54,9 +54,9 @@ Frida Labs nació de una idea personal y evolucionó hacia un proyecto tecnológ
 
 ---
 
-# 🚀 Proyectos destacados
+## 🚀 Proyectos destacados
 
-## 🎵 FridaMusic
+### 🎵 FridaMusic
 
 Ecosistema musical para Android enfocado en rendimiento, diseño y una experiencia de reproducción cuidada.
 
@@ -67,7 +67,7 @@ Ecosistema musical para Android enfocado en rendimiento, diseño y una experienc
   <a href="https://frida-music-of.vercel.app/"><img src="https://img.shields.io/badge/Web-FridaMusic-000000?style=flat-square&logo=vercel" /></a>
 </p>
 
-## 📦 XAPK / APKM Installer
+### 📦 XAPK / APKM Installer
 
 Proyecto colaborativo relacionado con el ecosistema de Frida Labs, enfocado en instalación y flujos de paquetes Android.
 
@@ -80,7 +80,7 @@ Proyecto colaborativo relacionado con el ecosistema de Frida Labs, enfocado en i
 
 ---
 
-# 🧠 En qué estoy trabajando
+## 🧠 En qué estoy trabajando
 
 ```yaml
 enfoque_actual:
@@ -106,7 +106,7 @@ aprendiendo:
 
 ---
 
-# ⚙️ Stack tecnológico
+## ⚙️ Stack tecnológico
 
 ### Lenguajes
 <p align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,html,css&perline=7" /></p>
@@ -119,7 +119,7 @@ aprendiendo:
 
 ---
 
-# 🤖 Inteligencia Artificial
+## 🤖 Inteligencia Artificial
 
 La IA forma parte de mi flujo de desarrollo como herramienta para investigación, prototipado, depuración, automatización y análisis.
 
@@ -134,40 +134,85 @@ La IA forma parte de mi flujo de desarrollo como herramienta para investigación
 
 ---
 
-# 🎓 Certificaciones de OpenAI Academy
+## 🎓 Certificaciones de OpenAI Academy
 
 <p align="center"><b>Certificados de finalización · OpenAI Academy · 16 de agosto de 2026</b></p>
 
-<p align="center">
-  <img src="./png/certificados-openai.jpg" width="100%" alt="Certificados OpenAI Academy de JAGR DEV" />
-</p>
+### 🤖 AI Foundations
 
 <p align="center">
-  <a href="https://academy.openai.com/home/certificate/tqjlqszg6s"><img src="https://img.shields.io/badge/Verificar-AI%20Foundations-10A37F?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <br><br>
-  <a href="https://academy.openai.com/home/certificate/z1nkv52xiq"><img src="https://img.shields.io/badge/Verificar-Applied%20AI%20Foundations-2563EB?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <br><br>
-  <a href="https://academy.openai.com/home/certificate/susxi9q7ro"><img src="https://img.shields.io/badge/Verificar-Agents%20%26%20Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://academy.openai.com/home/certificate/tqjlqszg6s">
+    <img src="./assets/certificados/openai-ai-foundations.png" width="92%" alt="Certificado OpenAI Academy - AI Foundations" />
+  </a>
 </p>
+
+<p align="center"><a href="https://academy.openai.com/home/certificate/tqjlqszg6s"><img src="https://img.shields.io/badge/Verificar-AI%20Foundations-10A37F?style=for-the-badge&logo=openai&logoColor=white" /></a></p>
+
+### 🧩 Applied AI Foundations
+
+<p align="center">
+  <a href="https://academy.openai.com/home/certificate/z1nkv52xiq">
+    <img src="./assets/certificados/openai-applied-ai-foundations.png" width="92%" alt="Certificado OpenAI Academy - Applied AI Foundations" />
+  </a>
+</p>
+
+<p align="center"><a href="https://academy.openai.com/home/certificate/z1nkv52xiq"><img src="https://img.shields.io/badge/Verificar-Applied%20AI%20Foundations-2563EB?style=for-the-badge&logo=openai&logoColor=white" /></a></p>
+
+### ⚡ Agents and Workflows
+
+<p align="center">
+  <a href="https://academy.openai.com/home/certificate/susxi9q7ro">
+    <img src="./assets/certificados/openai-agents-workflows.png" width="92%" alt="Certificado OpenAI Academy - Agents and Workflows" />
+  </a>
+</p>
+
+<p align="center"><a href="https://academy.openai.com/home/certificate/susxi9q7ro"><img src="https://img.shields.io/badge/Verificar-Agents%20%26%20Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" /></a></p>
 
 ---
 
-# 🏅 Habilidades verificadas · TrueCert
+## 🏅 Habilidades verificadas · TrueCert
 
 <p align="center"><b>Credenciales verificadas · agosto de 2026</b></p>
 
-<p align="center">
-  <img src="./png/certificados-truecert.jpg" width="100%" alt="Credenciales TrueCert de JAGR DEV" />
-</p>
+### Git Introduction · 92.3 %
 
-- **Git Introduction — 92.3 %** · [Verificar credencial ↗](https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr)
-- **HTML & CSS Introduction — 90.3 %** · [Verificar credencial ↗](https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr)
-- **AI Introduction — 100 %** · [Verificar credencial ↗](https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr)
-- **JavaScript Introduction — 100 %** · [Verificar credencial ↗](https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr)
+<p align="center">
+  <a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr">
+    <img src="./assets/certificados/truecert-git.png" width="68%" alt="TrueCert - Git Introduction" />
+  </a>
+</p>
+<p align="center"><a href="https://truecert.co/verify/80bbeb728d48c5ec71aa7226/?s=qr"><b>Verificar credencial ↗</b></a></p>
+
+### HTML & CSS Introduction · 90.3 %
+
+<p align="center">
+  <a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr">
+    <img src="./assets/certificados/truecert-html-css.png" width="68%" alt="TrueCert - HTML & CSS Introduction" />
+  </a>
+</p>
+<p align="center"><a href="https://truecert.co/verify/51992e60f3b058eb8e1c0853/?s=qr"><b>Verificar credencial ↗</b></a></p>
+
+### AI Introduction · 100 %
+
+<p align="center">
+  <a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr">
+    <img src="./assets/certificados/truecert-ai.png" width="68%" alt="TrueCert - AI Introduction" />
+  </a>
+</p>
+<p align="center"><a href="https://truecert.co/verify/12092f99ab913c74fab8b12f/?s=qr"><b>Verificar credencial ↗</b></a></p>
+
+### JavaScript Introduction · 100 %
+
+<p align="center">
+  <a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr">
+    <img src="./assets/certificados/truecert-javascript.png" width="68%" alt="TrueCert - JavaScript Introduction" />
+  </a>
+</p>
+<p align="center"><a href="https://truecert.co/verify/0d73c7378e12efd8848a59bb/?s=qr"><b>Verificar credencial ↗</b></a></p>
 
 ---
 
-# 📊 Analíticas de GitHub
+## 📊 Analíticas de GitHub
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagrdev-MX&theme=tokyonight" />
@@ -178,13 +223,13 @@ La IA forma parte de mi flujo de desarrollo como herramienta para investigación
 
 ---
 
-# 📈 Actividad y contribuciones
+## 📈 Actividad y contribuciones
 
 <p align="center"><img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=tokyo-night&hide_border=true&area=true" alt="Actividad de JAGR DEV en GitHub" /></p>
 
 ---
 
-# 🧭 Filosofía de desarrollo
+## 🧭 Filosofía de desarrollo
 
 ```text
 01. Entender el problema.
@@ -198,7 +243,7 @@ La IA forma parte de mi flujo de desarrollo como herramienta para investigación
 
 ---
 
-# 🌎 Más allá de un proyecto
+## 🌎 Más allá de un proyecto
 
 FridaMusic es el primer gran producto de Frida Labs, no el destino final.
 
@@ -216,7 +261,7 @@ Quiero seguir explorando y construyendo:
 
 ---
 
-# 📚 Aprendiendo actualmente
+## 📚 Aprendiendo actualmente
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agentes%20de%20IA-Aprendiendo-7C3AED?style=for-the-badge" />
@@ -228,13 +273,13 @@ Quiero seguir explorando y construyendo:
 
 ---
 
-# 🤝 Colaboración
+## 🤝 Colaboración
 
 Me interesa colaborar en proyectos relacionados con **Android, tecnología musical, IA, herramientas para desarrolladores, plataformas web, infraestructura backend, open source y software experimental**.
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
 
 <p align="center">
   <a href="mailto:jagr.developer@gmail.com"><img src="https://img.shields.io/badge/Correo-jagr.developer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
