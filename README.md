@@ -225,20 +225,16 @@ La IA forma parte de mi flujo de desarrollo como herramienta para investigación
 
 ## 📈 Actividad y contribuciones
 
-## 📈 Actividad y contribuciones
-
 <p align="center">
   <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&bg_color=0d1117&color=FFD700&line=1d4ed8&point=ffffff&area=true&hide_border=true"
-    alt="Gráfica de actividad de JAGR DEV"
-  />
-</p>
-
-<p align="center">
-  <img
+    width="49%"
     src="https://streak-stats.demolab.com?user=jagrdev-MX&theme=tokyonight&hide_border=true"
     alt="Racha de contribuciones de JAGR DEV"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jagrdev-MX&theme=tokyonight&utcOffset=-6"
+    alt="Horas productivas de JAGR DEV"
   />
 </p>
 
