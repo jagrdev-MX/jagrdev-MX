@@ -225,8 +225,12 @@ La IA forma parte de mi flujo de desarrollo como herramienta para investigación
 
 ## 📈 Actividad y contribuciones
 
-<p align="center"><img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=github-compact&hide_border=true&area=true"
-    alt="Actividad de JAGR DEV en GitHub" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jagrdev-MX&theme=github-compact&hide_border=true&area=true"
+    alt="Actividad de JAGR DEV en GitHub"
+  />
+</p>
 
 ---
 
