@@ -63,7 +63,7 @@ Ecosistema musical para Android enfocado en rendimiento, diseño y una experienc
 **Áreas principales:** Android / Kotlin · Media3 / ExoPlayer · reproducción remota y local · metadata y matching · backend · descargas · automatización · distribución en Google Play · plataforma web.
 
 <p>
-  <a href="https://github.com/jagrdev-MX/FridaMusicOF"><img src="https://img.shields.io/badge/GitHub-FridaMusicOF-181717?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/jagrdev-MX/FridaMusic_OF"><img src="https://img.shields.io/badge/GitHub-FridaMusicOF-181717?style=flat-square&logo=github" /></a>
   <a href="https://frida-music-of.vercel.app/"><img src="https://img.shields.io/badge/Web-FridaMusic-000000?style=flat-square&logo=vercel" /></a>
 </p>
 
